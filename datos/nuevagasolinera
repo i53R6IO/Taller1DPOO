@@ -1,0 +1,13 @@
+tipo:ACPM:12000:240.0
+tipo:EXTRA:20000:140.0
+tipo:Corriente:10000:300.0
+tipo:Premium:7000:4.0
+surtidor:Steven:ACPM:0.0:EXTRA:0.0:Corriente:0.0:Premium:0.0
+surtidor:Laura:ACPM:0.0:EXTRA:0.0:Corriente:0.0:Premium:0.0
+surtidor:Carlos:ACPM:0.0:EXTRA:0.0:Corriente:0.0:Premium:0.0
+surtidor:Luis:ACPM:0.0:EXTRA:0.0:Corriente:0.0:Premium:0.0
+empleado:Laura:0
+empleado:Luis:0
+empleado:Carlos:0
+empleado:Amanda:0
+empleado:Steven:0
